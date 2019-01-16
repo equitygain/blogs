@@ -1,0 +1,25 @@
+---
+# Lets add a comment to make this file sass-y.
+# Change this file for any custom CSS.
+---
+// Import partials from `sass_dir` (defaults to `_sass`)
+
+@import
+	"syntax"
+;
+
+.mediumnavigation {
+	background: #171e27;
+}
+
+.navbar-toggleable-md .navbar-nav .nav-link {
+	color: rgba(243, 228, 228, 0.7);
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #FEF9F8;
+}
+
+.dropdown-item:hover  {
+	background-color: #e5e5e5;
+}

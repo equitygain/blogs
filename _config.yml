@@ -1,0 +1,40 @@
+# Site
+name: Equity Gain Blog
+description: Jekyll Theme for Blogging
+meta_description: "Assisting investors to create wealth over time, using property as the vehicle. Learn how to create a financial structure using property to create wealth."
+logo: 'assets/images/rsz_logo_outline.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl:
+email: 'support@equitygain.com.au'
+google_analytics: ''
+disqus: '@equitygainptyltd'
+sharethis: <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5c3d7eadf8e3630010a0e3bf&product=sticky-share-buttons' async='async'></script>
+
+# Authors
+authors:
+  EG:
+    name: EG
+    display_name: equitygain
+    gravatar:
+    email: support@equitygain.com.au
+    web: https://www.equitygain.com.au
+    twitter: https://twitter.com/EquityGainPtyLt
+    description: ""
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Other
+markdown: kramdown
+highlighter: rouge

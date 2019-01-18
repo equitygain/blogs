@@ -22,9 +22,9 @@
   <meta content="{{ site.url }}/about/" property="article:author">
 {% endif %}
 {% if page.featured-image %}
-  <meta content="{{ site.url }}/{{ page.featured-image }}" property="og:image:url">
+  <meta content="{{ site.url }}/{{ page.featured-image }}" property="og:image">
 {% else %}
-  <meta content ="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title}}" property="og:image:url "> 
+  <meta content ="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title}}" property="og:image"> 
 {% endif %}
 {% if page.categories %}
   {% for category in page.categories limit:1 %}

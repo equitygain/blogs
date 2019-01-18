@@ -41,7 +41,9 @@ post_class: post-template
 			</div>
 
 			<!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+			{% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+			<meta content= "{{ page.image }}" alt="{{ page.title}} property="og:image"> 
+			{% endif %}
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->

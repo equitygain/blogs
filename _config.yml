@@ -29,6 +29,7 @@ plugins:
 
 # Archives
 jekyll-archives:
+  enabled: all
   enabled:
     - categories
   layout: archive

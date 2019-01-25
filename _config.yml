@@ -23,7 +23,7 @@ authors:
     description: ""
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-archives
 

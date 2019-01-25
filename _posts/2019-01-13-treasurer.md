@@ -2,7 +2,7 @@
 layout: post
 title:  "Lending Pick-Up"
 author: EG
-categories: [ Bank, Finance ]
+categories: [ Banks ]
 image: assets/images/house.png
 ---
 

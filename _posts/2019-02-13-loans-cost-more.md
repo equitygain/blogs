@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Loans To Cost More in the hands of big banks"
+title:  "Loans To Cost More In The Hands Of Big Banks"
 author: EG
 categories: [ Loans ]
 image: assets/images/homeCalc.png

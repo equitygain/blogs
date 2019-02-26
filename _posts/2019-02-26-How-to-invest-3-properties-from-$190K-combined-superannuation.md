@@ -24,4 +24,9 @@ These areas are rapid debt reduction whilst building your assets. In the eBook  
 
 Please don’t just sit back and have a read. The only thing that is going to really help you to move forward financially is to take action. Equity Gain are offering you a FREE one on one consultation in your own home to see what options you may have available to you. What are you waiting for?  Please complete the form below to get your FREE copy.
 
+<b>How to invest 3 properties from $190K combined superannuation</b><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8eR1u_0vgIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br><br>
+<b>Download your free eBook “How to use a Unit Trust to Create Wealth” Now</b>
+
 <script type="text/javascript" src="//equitygain.com.au/mautic/form/generate.js?id=5"></script>
